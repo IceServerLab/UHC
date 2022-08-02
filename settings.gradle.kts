@@ -1,0 +1,9 @@
+rootProject.name = "UHC"
+
+pluginManagement {
+    val kotlinVersion: String by settings
+
+    plugins {
+        kotlin("jvm") version kotlinVersion
+    }
+}

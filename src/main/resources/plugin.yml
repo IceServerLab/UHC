@@ -1,0 +1,7 @@
+name: UHC
+version: '${version}'
+main: jp.iceserver.uhc.UHC
+api-version: 1.18
+authors: [ Minidon ]
+description: Ultra Hardcore Championのほぼ再現プラグイン
+website: https://github.com/IceServerLab/UHC
